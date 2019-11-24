@@ -3,6 +3,6 @@
 Wall_str = "■"
 Blank_str = "□"
 Monster_str = "★"
-Monster_Cooldown = 7000
+Monster_Cooldown = 5000
 Max_Cooldown = 2500
 Win_Percentage = 85
